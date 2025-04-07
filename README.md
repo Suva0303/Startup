@@ -56,3 +56,27 @@
 ---
 
 ## ✨ Добро пожаловать в студенческую жизнь вместе с **"Приключениями абитуриента"!**
+
+
+## Главное меню
+![image](https://github.com/user-attachments/assets/c55a3e9c-1b14-4004-99e8-af9cc8864a94)
+
+____________________________________________
+## Реплики персонажей 
+![image](https://github.com/user-attachments/assets/89c5c129-5b83-4992-9220-a6431e72ece5)
+
+_______________________________________________
+
+![image](https://github.com/user-attachments/assets/8589fe04-0438-4c2e-9884-20e4f4b56cfe)
+
+_______________________________________________
+
+![image](https://github.com/user-attachments/assets/4cd2023f-e7ad-4291-9a46-e48fc3d4cabd)
+
+____________________________________________
+
+## Выбор варианта развития сюжета 
+![image](https://github.com/user-attachments/assets/567b71c7-4faa-464f-8f51-2e3a44eab1da)
+
+
+
