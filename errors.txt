@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 123: expected 'label_name' not found.
+    jump: koridor
+        ^
+
+Ren'Py Version: Ren'Py 8.3.8.25031801+nightly
+Sun Apr  6 23:46:25 2025
